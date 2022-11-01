@@ -10,5 +10,5 @@ services:
 			      - "8081:8081"
 
 			      volumes:
-			        nexus-data: {} {}
+			        nexus-data: {} {} {{}}
 
